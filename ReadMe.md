@@ -9,7 +9,7 @@
 .
 .
 
-# Linear Search
+# Binary Search
     - Time Complexity
         - Average Case O(log(n))
         - Worst Case   O(log(n))
